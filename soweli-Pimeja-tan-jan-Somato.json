@@ -5,9 +5,10 @@
     "author": "jan Somato",
     "cover": "https://dl.dropboxusercontent.com/scl/fi/rb649v973nheinzpa45u9/cover.jpg?rlkey=gwnnmt9ebqd1youf5zurhrdy5&st=zvs7abqf&dl=0",
     "chapters": {
-        "1": {
+        "0": {
             "title":  "lipu open pi kulupu lipu nanpa wan",
             "volume": "1",
+            "last_updated": "1786785619",
             "groups": {
                 "": [
                     "https://dl.dropboxusercontent.com/scl/fi/qj1kjqf18lj0xv22qehbg/000.jpg?rlkey=429beh8a1vllqupeoncw321og&st=7rnala4b&dl=0",
@@ -18,9 +19,10 @@
                 ]
             }
         },
-        "2": {
+        "1": {
             "title":  "kipisi tan 1 tawa 18",
             "volume": "1",
+            "last_updated": "1786785627",
             "groups": {
                 "": [
                     "https://dl.dropboxusercontent.com/scl/fi/epj9xuds61ybqi9938tcu/005.jpg?rlkey=zz1jepn5g4a7nqx94ip4c0dpj&st=ehmk9iaw&dl=0",
@@ -44,7 +46,6 @@
                     "https://dl.dropboxusercontent.com/scl/fi/9bxl1robvghmv1szyyp95/023.jpg?rlkey=wlqk3jidncpkd4a9hzds2zgyo&st=hkynz14k&dl=0"
                 ]
             }
-        },
-        "last_updated": "1786781841"
+        }
     }
 }
